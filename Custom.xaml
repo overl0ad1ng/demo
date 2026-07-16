@@ -3,7 +3,7 @@
 
 <local:MyHint Margin="0,10,0,15" Theme="Yellow" Text="进去如果发现右上角出现一大块遮挡视野的色块，可以按下 F8（默认键位设置）关闭。这是花卉地图（Flower Map）模组。" />
 
-<local:MyHint Margin="0,10,0,15" Theme="Yellow" Text="默认会打开背包显示，可以在模组菜单里搜索 Inventory HUD 进行修改" />
+<local:MyHint Margin="0,10,0,15" Theme="Yellow" Text="默认会打开背包显示，可以按下 i关闭或在模组菜单里搜索 Inventory HUD 进行修改" />
 
 <local:MyCard Title="默认键位设置" Margin="0,0,0,15" CanSwap="True" IsSwapped="True">
     <StackPanel Margin="25,40,23,15">
