@@ -1,9 +1,9 @@
 <local:MyHint Margin="0,0,0,0" Theme="Blue"
                     Text="欢迎来到魔法小镇 MagicTown！&#xA;这是专门为魔法小镇提供的优质模组整合包，如果在使用过程中出现任何疑问，可以在群里向大家提问！" />
 
-<local:MyHint Margin="0,10,0,15" Theme="Yellow" Text="进去如果发现右上角出现一大块遮挡视野的色块，可以按下 F8（默认键位设置）关闭。这是花卉地图（Flower Map）模组。" />
+<local:MyHint Margin="0,5,0,0" Theme="Yellow" Text="进去如果发现右上角出现一大块遮挡视野的色块，可以按下 F8（默认键位设置）关闭。这是花卉地图（Flower Map）模组。" />
 
-<local:MyHint Margin="0,10,0,15" Theme="Yellow" Text="默认会打开背包显示，可以按下 i关闭或在模组菜单里搜索 Inventory HUD 进行修改" />
+<local:MyHint Margin="0,5,0,15" Theme="Yellow" Text="默认会打开背包显示，可以按下 i关闭或在模组菜单里搜索 Inventory HUD 进行修改" />
 
 <local:MyCard Title="默认键位设置" Margin="0,0,0,15" CanSwap="True" IsSwapped="True">
     <StackPanel Margin="25,40,23,15">
