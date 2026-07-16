@@ -38,7 +38,7 @@
 
 <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
     <local:MyButton Margin="0,0,10,0" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="Highlight"
-                Text="加入 QQ 群" EventType="打开网页" EventData="https://qm.qq.com/q/JxDGC7R0cg" />
+                Text="加入 QQ 群" EventType="打开网页" EventData="https://qm.qq.com/q/CoBIrxYR3y" />
     <local:MyButton Margin="0,0,10,0" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="Highlight"
                 Text="开始魔法之旅" EventType="启动游戏" EventData="魔法小镇专用包|mc.rosyju.top" />
     <local:MyButton Margin="0,0,10,0" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
